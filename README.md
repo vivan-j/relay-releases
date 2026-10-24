@@ -7,7 +7,8 @@ A lightweight desktop client for your self-hosted AI browser sessions.
 [Download the latest Relay release](https://github.com/vivan-j/relay-releases/releases/latest).
 
 - Apple Silicon Mac: download the `.dmg`, open it, and copy Relay to Applications.
-- Intel Mac and Windows installers will appear when those platform builds are published.
+- Intel Mac: download the `_x64.dmg` installer.
+- Windows x64: download the `_x64-setup.exe` installer.
 
 Quit an existing Relay installation before replacing it. A self-hosted Relay server with trusted HTTPS is required to connect to your AI accounts.
 
